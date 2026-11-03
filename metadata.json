@@ -1,0 +1,6 @@
+{
+  "name": "ConeQta",
+  "description": "ConeQta Queimados RJ — Conectando empreendedores de Queimados à população. Plataforma de valorização e conexão direta entre empreendedores locais e a população.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
