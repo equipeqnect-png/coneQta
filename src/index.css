@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@keyframes floatUpDown {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-coneqta-float {
+  display: inline-block;
+  animation: floatUpDown 3.2s ease-in-out infinite;
+  will-change: transform;
+}
